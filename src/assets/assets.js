@@ -279,7 +279,7 @@ export const food_list = [
         name: "Rice & Curry with Chicken",
         image: food_23,
         price: 320,
-        description: "Tender chicken served with aromatic curry and a side of fluffy rice.",
+        description: "Tender chicken served with fluffy rice.",
         category: "Rice & Curry"
     }, {
         _id: "24",
