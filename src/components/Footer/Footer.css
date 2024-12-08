@@ -46,3 +46,19 @@
     background-color: #E163A9;
     border: none;
 }
+
+@media(max-width:750px){
+    .footer-content{
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+    }
+    .footer-copyright{
+        text-align: center;
+    }
+    .footer-content-left .logo{
+        width: 150px;
+    position: relative;
+    left: -30px;
+    }
+}
