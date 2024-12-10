@@ -58,7 +58,7 @@
     }
     .footer-content-left .logo{
         width: 150px;
-    position: relative;
-    left: -30px;
+        position: relative;
+        left: -30px;
     }
 }
